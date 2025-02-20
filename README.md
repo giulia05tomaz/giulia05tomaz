@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Giulia Moraes!</h1>
-<h3 align="center">Sou Frontend Developer Junior Freelancer | Estudante Ethical Hacking</h3>
+<h3 align="center">Sou Frontend Developer Freelancer | Estudante Ethical Hacking</h3>
 
 - 🔭 Atualmente, estou trabalhando no **PROJETO Organizador Hospitalar - Aplicativo focado em ajudar a rede publica de saúde**
 
