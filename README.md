@@ -1,46 +1,56 @@
-<h1 align="center">Olá 👋, me chamo Giulia Moraes!</h1>
-<h3 align="center">Desenvolvedora Full Stack | Especialista em Automação e IA | Ethical Hacking Student</h3>
+# Giulia Moraes
 
-- 🔭 Atualmente, estou trabalhando no **JusFácil**, uma plataforma jurídica com IA.
+**Desenvolvedora Full Stack** focada em aplicações web, APIs REST e qualidade de software.
 
-- 👨‍💻 Experiência em **desenvolvimento Full Stack**, automação empresarial e segurança cibernética.
+Desenvolvo soluções ponta a ponta, do frontend à persistência de dados, com atenção a segurança, testes, documentação e experiência de uso.
 
-- 🛠️ Tecnologias principais: **HTML, CSS, JavaScript, React, Node.js, .NET, PHP, Python, Flask, MySQL e Power Automate.**
+## Sobre mim
 
-- 📢 Atuo também com **tráfego pago e campanhas no Google Ads**.
+- Atuação com **React, TypeScript, PHP, Laravel, MySQL e Docker**.
+- Experiência na construção e integração de **APIs REST**.
+- Formação em **Defesa Cibernética na FIAP**, com interesse em desenvolvimento seguro e DevSecOps.
+- Prática com testes automatizados, GitHub Actions, revisão por pull requests e deploy em nuvem.
+- Aberta a oportunidades como **Desenvolvedora Full Stack**, **Backend PHP/Laravel** ou **Frontend React/TypeScript**.
 
-- 🎯 Estou em busca de **projetos inovadores e oportunidades para aplicar minhas habilidades técnicas**.
+## Projeto em destaque
 
-- 📚 Formação: **Defesa Cibernética na FIAP, com foco em Ethical Hacking, Forensics e DevSecOps**.
+### [GreenMeter Lite](https://github.com/giulia05tomaz/GreenMeter-Lite)
 
-- 📄 Conheça minhas experiências no [LinkedIn](https://www.linkedin.com/in/giuliamst/).
+MVP full stack para importar leituras de energia, acompanhar consumo e estimar emissões associadas.
 
-- 📫 Contato: **giulia05tomaz@gmail.com** | [GitHub](https://github.com/giulia05tomaz)
+- Autenticação com Laravel Sanctum e isolamento de dados por usuário.
+- Importação segura e atômica de arquivos CSV.
+- Dashboard com KPIs, série temporal e alertas de consumo.
+- Testes automatizados no backend e frontend.
+- CI com GitHub Actions, ambiente Docker e deploy na Railway.
 
----
+**[Acessar a aplicação](https://strong-luck-production-00b9.up.railway.app)** · **[Ver o código](https://github.com/giulia05tomaz/GreenMeter-Lite)**
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+## Outro projeto
 
----
+### [Na Cuca](https://github.com/giulia05tomaz/nacuca)
 
-<h3 align="left">🚀 Projetos Relevantes:</h3>
+Plataforma voltada ao desenvolvimento profissional e à geração de renda na comunidade de Embu-Guaçu. O projeto demonstra evolução de produto, integração com backend e trabalho colaborativo.
 
-- **JusFácil** - Plataforma de IA para advogados (**Python, Flask, MySQL**).
-- **Automação Bancária** - Automação de processos para **Santander, Bradesco e BMG** (**Power Automate, JavaScript**).
-- **WebTech Marketing** - Gestão de tráfego pago e desenvolvimento web para Google Ads.
+## Tecnologias
 
----
+| Área | Tecnologias |
+|---|---|
+| Frontend | React, TypeScript, JavaScript, HTML e CSS |
+| Backend | PHP, Laravel, APIs REST e Sanctum |
+| Dados | MySQL e SQLite |
+| Qualidade | Pest, Vitest, Testing Library e GitHub Actions |
+| Infraestrutura | Docker, Docker Compose e Railway |
+| Ferramentas | Git, GitHub e Linux |
 
-💡 **"Sempre buscando inovar e aprender algo novo no mundo da tecnologia!"** 🚀
+## Como trabalho
+
+- Transformo requisitos em entregas pequenas e verificáveis.
+- Documento decisões, limitações e próximos passos.
+- Trato segurança, validação e testes como parte do desenvolvimento.
+- Uso branches, commits semânticos, pull requests e CI para manter qualidade.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/giuliamst/)
+- [E-mail](mailto:giulia05tomaz@gmail.com)
